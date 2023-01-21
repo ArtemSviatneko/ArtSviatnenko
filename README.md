@@ -1,2 +1,2 @@
-![Header](https://github.com/YuriiSenko/YuriiSenko/blob/main/assets/header.png)
+![Header](https://github.com/ArtemSviatneko/ArtSviatnenko/blob/main/Assets/header_art.png)
 ## I'm a QA Engineer
