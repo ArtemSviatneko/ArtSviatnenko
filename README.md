@@ -17,7 +17,9 @@ Currently deepening my knowledge of implementing API autoimation testing using P
 
 ## &#x270d; Blog & Writing
 Apart from testing, I also like to share my experience with community
-
+ - Nailing ISTQB Exam
+ - API testing strategy
+ - Useful stuff for day-to-day use of tester
 ## Get in touch
-
+ 
 # Stay awesome!)
