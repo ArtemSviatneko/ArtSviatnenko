@@ -7,4 +7,11 @@ Currently deepening my knowledge of implementing API autoimation testing using P
 ![Postman](https://github.com/ArtemSviatnenko/ArtemSviatnenko/blob/main/Assets/postman.png)
 ![Postman30Days](https://github.com/ArtemSviatnenko/ArtemSviatnenko/blob/main/Assets/image2-2-100.png)
 
+## 🔧 Technologies & Tools
+ -Jira, Trello, Testrail, Zephyr
+- Git, Github
+- Postman, Newman, K6, JMeter, Fiddler, Jenkins, Selenium, Selenium Ide, DevTools
+- SQL
+- HTML, CSS, JS, C#
+- JetBrains, Visual Studio Code
 
