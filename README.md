@@ -3,5 +3,8 @@
 My name is Artem Sviatnenko and I'm an ISTQB certified tester. Love to detect discrepancies, assess quality and evaluate root causes of problems either in software or real life issues. Along with manual testing point my efforts on developing automation and API testing as фт inseparable part of the quality assurance process.
 Currently deepening my knowledge of implementing API autoimation testing using Postman, Newman and Jenkins and GUI testing with C# and Selenium. 
 ## :rocket: Certifications
-![My Image](https://github.com/ArtemSviatnenko/ArtemSviatnenko/blob/main/Assets/157907786-9033dc8e-7e26-45a0-a230-532c1547d861.png)
-![My Image](https://github.com/ArtemSviatnenko/ArtemSviatnenko/blob/main/Assets/CTFL-badge.png)
+![https://atsqa.org/certified-testers/profile/d82f4603cc2d4ee89da13b0202c00fde](https://github.com/ArtemSviatnenko/ArtemSviatnenko/blob/main/Assets/CTFL-badge.png)
+![Postman](https://github.com/ArtemSviatnenko/ArtemSviatnenko/blob/main/Assets/postman.png)
+![Postman30Days](https://github.com/ArtemSviatnenko/ArtemSviatnenko/blob/main/Assets/image2-2-300x300.png)
+
+
