@@ -6,6 +6,7 @@ Currently deepening my knowledge of implementing API autoimation testing using P
 ![https://atsqa.org/certified-testers/profile/d82f4603cc2d4ee89da13b0202c00fde](https://github.com/ArtemSviatnenko/ArtemSviatnenko/blob/main/Assets/CTFL-badge.png)
 ![Postman](https://github.com/ArtemSviatnenko/ArtemSviatnenko/blob/main/Assets/postman.png)
 ![Postman30Days](https://github.com/ArtemSviatnenko/ArtemSviatnenko/blob/main/Assets/image2-2-100.png)
+## Portfolio
 
 ## 🔧 Technologies & Tools
 - Jira, Trello, Testrail, Zephyr
