@@ -1,6 +1,6 @@
 ![Header](https://github.com/ArtemSviatnenko/ArtemSviatnenko/blob/main/Assets/header_art_light_1.png)
 ## Hi, everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
-My name is Artem Sviatnenko and I'm an ISTQB certified tester. Love to detect discrepancies, assess quality and evaluate root causes of problems either in software or real life issues. Along with manual testing point my efforts on developing automation and API testing as фт inseparable part of the quality assurance process.
+My name is Artem Sviatnenko and I'm an ISTQB certified tester. Love to detect discrepancies, assess quality and evaluate root causes of problems either in software or real life issues. Along with manual testing point my efforts on developing automation and API testing as an essential part of the quality assurance process.
 Currently deepening my knowledge of implementing API autoimation testing using Postman, Newman and Jenkins and GUI testing with C# and Selenium. 
 ## :rocket: Certifications
 ![https://atsqa.org/certified-testers/profile/d82f4603cc2d4ee89da13b0202c00fde](https://github.com/ArtemSviatnenko/ArtemSviatnenko/blob/main/Assets/CTFL-badge.png)
